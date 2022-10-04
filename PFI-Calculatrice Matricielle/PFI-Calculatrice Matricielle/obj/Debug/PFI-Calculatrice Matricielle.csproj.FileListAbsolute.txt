@@ -1,0 +1,27 @@
+F:\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\bin\Debug\PFI-Calculatrice Matricielle.exe.config
+F:\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\bin\Debug\PFI-Calculatrice Matricielle.exe
+F:\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\bin\Debug\PFI-Calculatrice Matricielle.pdb
+F:\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.csprojResolveAssemblyReference.cache
+F:\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI_Calculatrice_Matricielle.Properties.Resources.resources
+F:\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.csproj.GenerateResource.Cache
+F:\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.exe
+F:\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.pdb
+F:\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI_Calculatrice_Matricielle.Form1.resources
+F:\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\bin\Debug\PFI-Calculatrice Matricielle.exe.config
+F:\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.exe
+F:\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.pdb
+F:\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\bin\Debug\PFI-Calculatrice Matricielle.exe
+F:\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\bin\Debug\PFI-Calculatrice Matricielle.pdb
+F:\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.csprojResolveAssemblyReference.cache
+F:\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI_Calculatrice_Matricielle.Form1.resources
+F:\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI_Calculatrice_Matricielle.Properties.Resources.resources
+F:\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.csproj.GenerateResource.Cache
+A:\Études fichiers\USB LUDOVIC\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\bin\Debug\PFI-Calculatrice Matricielle.exe.config
+A:\Études fichiers\USB LUDOVIC\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.exe
+A:\Études fichiers\USB LUDOVIC\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.pdb
+A:\Études fichiers\USB LUDOVIC\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\bin\Debug\PFI-Calculatrice Matricielle.exe
+A:\Études fichiers\USB LUDOVIC\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\bin\Debug\PFI-Calculatrice Matricielle.pdb
+A:\Études fichiers\USB LUDOVIC\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.csprojResolveAssemblyReference.cache
+A:\Études fichiers\USB LUDOVIC\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI_Calculatrice_Matricielle.Form1.resources
+A:\Études fichiers\USB LUDOVIC\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI_Calculatrice_Matricielle.Properties.Resources.resources
+A:\Études fichiers\USB LUDOVIC\CÉGEP\3èmeSession\Algèbre\PFI-Calculatrice Matricielle\PFI-Calculatrice Matricielle\obj\Debug\PFI-Calculatrice Matricielle.csproj.GenerateResource.Cache
